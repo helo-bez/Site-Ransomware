@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Akira</title>
+    <link rel="stylesheet" href="css/style.css" />
+ 
+    <script src="js/script.js" defer></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/p5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/addons/p5.dom.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/addons/p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+
+</head>
+
+<body>
+
+    <div class="balaom">
+      <p class="mensagem">
+        Olá. Você entrou em contato com o suporte do Akira. Atualmente estamos preparando a lista de dados que retiramos da sua rede. Por enquanto você tem que saber que negociar conosco é a melhor maneira possível de resolver isso de forma rápida e barata. Mantenha contato e seja paciente conosco. Entraremos em contato com você em breve. Você tem permissão para conduzir uma negociação em nome de sua organização?
+      </p>
+  </div>
+  
+  <a href='akira1.html'><button id="akira1-modal">Ok, tenho permissão para negociar, mas não tenho permissão para definir valores.</button></a>
+  <a href='akira2.html'><button id="akira2-modal">Vai se ferrar %&*#@#, não vou negociar com vocês nunca.</button></a>
+
+</body>
